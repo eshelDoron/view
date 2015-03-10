@@ -9,6 +9,7 @@ namespace view
 {
     class controller
     {
+        //testing commit
         //init the model
         model mod = new model();
         //init a data table
